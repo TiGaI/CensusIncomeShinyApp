@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564670234736.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3257537749",
+    "id" : "5B5A6B6",
+    "lastKnownWriteTime" : 1564610392,
+    "last_content_update" : 1564610392,
+    "path" : "C:/Users/Jayce/Desktop/New folder/load_csv_online.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "30,3",
+        "scrollLine" : "16"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

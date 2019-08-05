@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564679251350.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3607317741",
+    "id" : "6A864B80",
+    "lastKnownWriteTime" : 1564679251,
+    "last_content_update" : 1564679251,
+    "path" : "C:/Users/Jayce/AppData/Local/Temp/7zO8ED17A7F/helpers.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "75,1",
+        "scrollLine" : "59"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

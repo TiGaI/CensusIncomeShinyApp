@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564668377387.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "536453104",
+    "id" : "6A57D88",
+    "lastKnownWriteTime" : 1564677180,
+    "last_content_update" : 1564677180289,
+    "path" : "C:/Users/Jayce/Desktop/New folder/midterm.rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "80,0",
+        "scrollLine" : "67"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
